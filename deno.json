@@ -1,4 +1,5 @@
 {
+  "lock": false,
   "imports": {
     "hono": "jsr:@hono/hono",
     "hono/cors": "jsr:@hono/hono/cors",
